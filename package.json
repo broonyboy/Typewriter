@@ -1,0 +1,28 @@
+{
+  "name": "typewriter",
+  "version": "1.0.0",
+  "description": "typewriter style landing page",
+  "main": "main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broonyboy/Typewriter.git"
+  },
+  "keywords": [
+    "landin",
+    "page"
+  ],
+  "author": "neale brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/broonyboy/Typewriter/issues"
+  },
+  "homepage": "https://github.com/broonyboy/Typewriter#readme",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
